@@ -1,4 +1,4 @@
 # hello-world
-My own repository with my thoughts
+My own repository with my handy pieces of code
 
-Just for practice
+Just in case
